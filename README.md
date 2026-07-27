@@ -4,7 +4,7 @@
 ## Installation
 
 #### HyDE Project
-To install **The Elder Scrolls** on `HyDE Project`, run the following command:
+To install **Starfield** on `HyDE Project`, run the following command:
 ```sh
-hydectl theme import --name "The Elder Scrolls" --url https://github.com/Lepehn/hyde-tes
+hydectl theme import --name "Starfield" --url https://github.com/Lepehn/hyde-tes
 ```
